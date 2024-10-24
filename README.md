@@ -2,7 +2,9 @@
 Collection of projects done while learning C++
 
 This collection currently includes 5 projects committed on 24/10/2024
+
 From order of difficulty:
+
 1. CalculatorConsole - This program demonstrates a simple command line calculator. It will ask the user
 //      to enter two numbers and an operator. It will then perform the operation and 
 //      display the result.
