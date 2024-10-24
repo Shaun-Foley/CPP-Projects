@@ -16,3 +16,7 @@ From order of difficulty:
 //      receipt.
 5. BugTracker - This program demonstrates a simple Bug Tracker. It allows the user to add, view, search, 
 //      update, and delete bugs. The program continues to run until the user chooses to quit. 
+
+Next possible steps for improvement:
+1. Adding UI to the Supermarket and BugTracker programmes e.g. Qt, wxWidgets, SFML
+2. Creating a database/storage option for the Supermarket and BugTracker programmes e.g. SQLite
